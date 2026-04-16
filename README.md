@@ -12,6 +12,7 @@ I started this repo while learning Python from scratch. It includes simple progr
 
 * Basic Python programs (loops, conditions, functions)
 * Practice problems
+* Rock,paper and scissor game
 
 ## 🎯 Goal
 
